@@ -1,0 +1,1945 @@
+{
+ "meta": {
+  "version": 1,
+  "actualizado": "2026-09-30"
+ },
+ "config": {
+  "correoBuzon": "cabildantesdebogota@gmail.com",
+  "formEndpoint": "https://formsubmit.co/ajax/cabildantesdebogota@gmail.com",
+  "api": {
+   "allowedOrigins": [],
+   "remoteContentUrl": "data/contenido.json"
+  },
+  "redes": {
+   "instagram": "",
+   "tiktok": "",
+   "x": "",
+   "youtube": "",
+   "whatsapp": "",
+   "spotify": ""
+  },
+  "albumes": [
+   {
+    "titulo": "Álbum de la Mesa (1)",
+    "url": "https://photos.app.goo.gl/aqVwXqh11sTqj9LG7"
+   },
+   {
+    "titulo": "Álbum de la Mesa (2)",
+    "url": "https://photos.app.goo.gl/j7CBCyiPQWskgsoTA"
+   }
+  ],
+  "cabeceras": {
+   "quienes": "galeria:biblioteca-grupo",
+   "historia": "galeria:grupo-certificados",
+   "normativa": "galeria:sesion-curules",
+   "directorio": "galeria:biblioteca-saludo",
+   "gestion": "galeria:sesion-lectura",
+   "ruta": "galeria:cabildante-curul",
+   "buzon": "galeria:sesion-dialogo",
+   "comunicados": "galeria:mesa-directiva",
+   "agenda": "galeria:sesion-recinto",
+   "noticias": "galeria:plenaria-recinto",
+   "transparencia": "galeria:intervencion-atril-2",
+   "voces": "galeria:cabildante-retrato",
+   "aliados": "galeria:sesion-conversacion",
+   "prensa": "galeria:intervencion-atril",
+   "galeria": "galeria:plenaria-aplausos",
+   "faq": "galeria:biblioteca-saludo",
+   "podcast": "galeria:cabildante-curul",
+   "unete": "galeria:sesion-conversacion",
+   "legal": "galeria:sesion-curules"
+  },
+  "apiBase": "",
+  "asistente": {
+   "activo": true,
+   "nombre": "Asistente de la Mesa",
+   "saludo": "¡Hola! Soy el asistente de la Mesa Distrital de Cabildantes Estudiantiles. Pregúntame cómo funciona la Mesa, cómo ser cabildante o cómo enviar una iniciativa.",
+   "sugerencias": [
+    "¿Qué hace la Mesa?",
+    "¿Cómo llego a ser cabildante?",
+    "¿Cómo envío una iniciativa?",
+    "¿Quién es la mesa directiva?"
+   ]
+  }
+ },
+ "site": {
+  "nombre": "Mesa Distrital de Cabildantes Estudiantiles",
+  "sigla": "MDCE",
+  "lema": "Veinte localidades, una sola mesa",
+  "heroTexto": "Somos estudiantes de colegios de Bogotá elegidos para llevar la voz de su localidad al Concejo de la ciudad. Preguntamos, vigilamos, proponemos y rendimos cuentas.",
+  "cifras": [
+   {
+    "valor": "20",
+    "label": "localidades representadas",
+    "nota": ""
+   },
+   {
+    "valor": "4",
+    "label": "comisiones de trabajo",
+    "nota": ""
+   },
+   {
+    "valor": "1.800+",
+    "label": "cabildantes posesionados en 2026",
+    "nota": "Cifra en verificación"
+   },
+   {
+    "valor": "20+",
+    "label": "alianzas en gestión",
+    "nota": ""
+   },
+   {
+    "valor": "5+",
+    "label": "proyectos de acuerdo en construcción",
+    "nota": ""
+   }
+  ],
+  "slides": [
+   {
+    "antetitulo": "Mesa Distrital de Cabildantes Estudiantiles",
+    "titulo": "",
+    "texto": "",
+    "boton": "Conoce la Mesa",
+    "enlace": "#/quienes",
+    "foto": "galeria:biblioteca-grupo"
+   },
+   {
+    "antetitulo": "Quiénes somos",
+    "titulo": "Estudiantes que representan a sus colegios",
+    "texto": "Cada cabildante es elegido por su comunidad educativa para llevar las propuestas de su colegio y su localidad hasta el Concejo de Bogotá.",
+    "boton": "Ruta de elección",
+    "enlace": "#/ruta",
+    "foto": "galeria:grupo-certificados"
+   },
+   {
+    "antetitulo": "Cómo trabajamos",
+    "titulo": "Cuatro comisiones, una sola agenda",
+    "texto": "Control político, control social, gestión normativa y participación incidente: así vigilamos, proponemos y llevamos la voz estudiantil a la ciudad.",
+    "boton": "Ver las comisiones",
+    "enlace": "#/quienes",
+    "foto": "galeria:mesa-directiva"
+   },
+   {
+    "antetitulo": "Participa",
+    "titulo": "Tu colegio tiene algo que decirle a Bogotá",
+    "texto": "Envíanos una propuesta, una alerta o una pregunta para las entidades del Distrito. La recibe la comisión que corresponde.",
+    "boton": "Enviar una iniciativa",
+    "enlace": "#/buzon",
+    "foto": "galeria:plenaria-recinto"
+   },
+   {
+    "antetitulo": "Red de la Mesa",
+    "titulo": "Sumemos fuerzas por la juventud de Bogotá",
+    "texto": "Concejales, funcionarios, organizaciones, academia y medios: hay un lugar para ti en nuestra red.",
+    "boton": "Unirme a la red",
+    "enlace": "#/unete",
+    "foto": "galeria:sesion-conversacion"
+   }
+  ],
+  "bienvenida": {
+   "antetitulo": "Bienvenidos a la Mesa",
+   "titulo": "La voz de los colegios en el Concejo de Bogotá",
+   "texto": "La Mesa Distrital de Cabildantes Estudiantiles reúne a los cabildantes elegidos en los colegios de las 20 localidades de Bogotá. Existimos desde el Acuerdo 597 de 2015 para que la voz de los estudiantes llegue al Concejo de la ciudad, y para que no se quede ahí.\n\nPreguntamos a las entidades, vigilamos que respondan, proponemos proyectos de acuerdo y le contamos a la ciudad lo que hacemos. Esta es nuestra casa digital: aquí sabrás quiénes somos, en qué estamos trabajando y cómo sumarte.",
+   "firma": "Isabella Hermosa Osma",
+   "cargo": "Presidenta de la Mesa Distrital de Cabildantes Estudiantiles · II periodo",
+   "foto": "galeria:mesa-todos",
+   "etiqueta": "Mesa Distrital 2026"
+  },
+  "reconocimiento": {
+   "antetitulo": "Reconocimiento",
+   "titulo": "Orden Civil al Mérito José Acevedo y Gómez",
+   "texto": "El Concejo de Bogotá confirió a la Mesa Distrital de Cabildantes Estudiantiles la Orden Civil al Mérito José Acevedo y Gómez, en el grado Cruz de Plata. Es un reconocimiento al trabajo de los cabildantes de las 20 localidades y a la Mesa como instancia de participación de los estudiantes de la ciudad.",
+   "nota": "",
+   "foto": "galeria:orden-civil",
+   "foto2": "galeria:grupo-certificados"
+  },
+  "fotoComisiones": "galeria:mesa-directiva",
+  "fotoMomentos": "galeria:plenaria-recinto",
+  "fotoLlamado": "galeria:sesion-dialogo"
+ },
+ "quienes": {
+  "intro": "La Mesa Distrital de Cabildantes Estudiantiles (MDCE) reúne a los cabildantes estudiantiles de Bogotá. La creó el Acuerdo 597 de 2015 del Concejo de Bogotá, que también estableció el Día del Cabildante Estudiantil. Trabajamos en plenaria, con una mesa directiva y cuatro comisiones.",
+  "mision": "Representar a los estudiantes de los colegios de Bogotá ante el Concejo y las entidades distritales: hacemos control político y social, convertimos propuestas estudiantiles en iniciativas normativas y abrimos espacios de participación que inciden en las decisiones que nos afectan.",
+  "vision": "En 2030 seremos la instancia juvenil de participación más reconocida del Distrito, con información propia, propuestas convertidas en acuerdos y cabildantes formados y activos en las 20 localidades.",
+  "proposito": "Que ninguna decisión sobre la vida escolar de Bogotá se tome sin escuchar a quienes la viven.",
+  "valores": [
+   {
+    "t": "Confianza",
+    "d": "Decimos lo que sabemos y mostramos de dónde sale cada dato."
+   },
+   {
+    "t": "Unidad",
+    "d": "Veinte localidades con una sola agenda de ciudad."
+   },
+   {
+    "t": "Juventud",
+    "d": "Hablamos claro, proponemos distinto y no pedimos permiso para preguntar."
+   },
+   {
+    "t": "Transparencia",
+    "d": "Rendimos cuentas de lo que hicimos y también de lo que no logramos."
+   }
+  ],
+  "estructura": [
+   {
+    "t": "Plenaria",
+    "d": "Máxima instancia de decisión. Reúne a los cabildantes delegados de las localidades."
+   },
+   {
+    "t": "Mesa directiva",
+    "d": "Presidencia, dos vicepresidencias y Secretaría General. Conduce las sesiones y representa a la Mesa."
+   },
+   {
+    "t": "Comisiones",
+    "d": "Control Político, Control Social, Gestión Normativa y Participación Incidente."
+   },
+   {
+    "t": "Mesas estudiantiles locales",
+    "d": "El vínculo con cada una de las 20 localidades y con los colegios."
+   }
+  ]
+ },
+ "comisiones": [
+  {
+   "id": "C1",
+   "nombre": "Control Político",
+   "color": "#10265E",
+   "tema": "Seguridad en entornos escolares",
+   "descripcion": "Vigila las decisiones, la ejecución y los resultados de las entidades distritales que afectan a los estudiantes, y prepara los insumos para los debates de control político.",
+   "productos": [
+    "Agenda de control político",
+    "Cuestionarios y derechos de petición",
+    "Matriz de seguimiento de respuestas",
+    "Informe de hallazgos"
+   ],
+   "logo": "logo:comision-C1-control-politico"
+  },
+  {
+   "id": "C2",
+   "nombre": "Control Social",
+   "color": "#2456C9",
+   "tema": "Salud mental",
+   "descripcion": "Verifica en el territorio cómo llegan los programas y servicios a los colegios: visitas, veeduría y seguimiento a hallazgos en las 20 localidades.",
+   "productos": [
+    "Visitas de control social",
+    "Sesión con entidades citadas",
+    "Hallazgos por categoría",
+    "Traslados a organismos de control"
+   ],
+   "logo": "logo:comision-C2-control-social"
+  },
+  {
+   "id": "C3",
+   "nombre": "Gestión Normativa",
+   "color": "#16789C",
+   "tema": "Cultura, arte y deporte; proyecto de acuerdo de salud mental",
+   "descripcion": "Convierte las propuestas estudiantiles en proyectos de acuerdo, los acompaña en el Concejo y hace seguimiento a su trámite.",
+   "productos": [
+    "Banco de iniciativas",
+    "Fichas de proyectos de acuerdo",
+    "Relación con concejales y UAN",
+    "Conceptos técnicos"
+   ],
+   "logo": "logo:comision-C3-gestion-normativa"
+  },
+  {
+   "id": "C4",
+   "nombre": "Participación Incidente",
+   "color": "#6FA8F5",
+   "tema": "Futuro laboral",
+   "descripcion": "Consulta a las bases, forma a los cabildantes y conecta la Mesa con otras instancias, aliados y redes.",
+   "productos": [
+    "Consulta a las bases",
+    "Formación de cabildantes",
+    "Retorno por localidad",
+    "MUN-MDCE"
+   ],
+   "logo": "logo:comision-C4-participacion-incidente"
+  }
+ ],
+ "normas": [
+  {
+   "ambito": "Distrital",
+   "tipo": "Acuerdo",
+   "numero": "597 de 2015",
+   "titulo": "Día del Cabildante Estudiantil y creación de la Mesa Distrital",
+   "desc": "Crea la Mesa Distrital de Cabildante Estudiantil, establece el Día del Cabildante y define quiénes pueden ser elegidos (estudiantes de grado 6.º a 11.º).",
+   "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=62807"
+  },
+  {
+   "ambito": "Distrital",
+   "tipo": "Acuerdo",
+   "numero": "882 de 2023",
+   "titulo": "Control y seguimiento a los proyectos de acuerdo de la Mesa",
+   "desc": "Modifica el Acuerdo 597: el Concejo destina una sesión plenaria al control social de un tema propuesto por la Mesa, y la Mesa hace seguimiento a sus proyectos de acuerdo.",
+   "url": "https://concejodebogota.gov.co/concejo/site/docs/20230209/asocfile/20230209170105/edicion_740_acuerdo_882_887_marzo_del_2023.pdf"
+  },
+  {
+   "ambito": "Distrital",
+   "tipo": "Decreto Ley",
+   "numero": "1421 de 1993",
+   "titulo": "Estatuto Orgánico de Bogotá",
+   "desc": "Régimen del Distrito Capital y atribuciones del Concejo de Bogotá.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/decreto_1421_1993.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Constitución",
+   "numero": "1991",
+   "titulo": "Constitución Política de Colombia",
+   "desc": "Participación democrática (arts. 40 y 103), formación en prácticas democráticas (art. 41) y participación de los jóvenes (art. 45).",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley",
+   "numero": "115 de 1994",
+   "titulo": "Ley General de Educación",
+   "desc": "Gobierno escolar y participación de los estudiantes en la vida de la institución educativa.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0115_1994.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley",
+   "numero": "1098 de 2006",
+   "titulo": "Código de la Infancia y la Adolescencia",
+   "desc": "Derecho de niñas, niños y adolescentes a participar en los asuntos que los afectan.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley estatutaria",
+   "numero": "1622 de 2013",
+   "titulo": "Estatuto de Ciudadanía Juvenil",
+   "desc": "Marco de participación juvenil, modificado por la Ley 1885 de 2018.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1622_2013.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley estatutaria",
+   "numero": "1885 de 2018",
+   "titulo": "Modificación del Estatuto de Ciudadanía Juvenil",
+   "desc": "Ajusta el sistema de participación juvenil y los consejos de juventud.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1885_2018.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley estatutaria",
+   "numero": "1757 de 2015",
+   "titulo": "Promoción y protección del derecho a la participación democrática",
+   "desc": "Mecanismos de participación ciudadana, control social y rendición de cuentas.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1757_2015.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley estatutaria",
+   "numero": "1755 de 2015",
+   "titulo": "Derecho fundamental de petición",
+   "desc": "Términos para responder: 15 días hábiles por regla general, 10 para documentos e información y 30 para consultas.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley",
+   "numero": "1712 de 2014",
+   "titulo": "Transparencia y acceso a la información pública",
+   "desc": "Obligación de las entidades de publicar y entregar información pública.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1712_2014.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley",
+   "numero": "1620 de 2013",
+   "titulo": "Sistema Nacional de Convivencia Escolar",
+   "desc": "Convivencia escolar, derechos humanos y prevención de la violencia escolar.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1620_2013.html"
+  },
+  {
+   "ambito": "Nacional",
+   "tipo": "Ley estatutaria",
+   "numero": "1581 de 2012",
+   "titulo": "Protección de datos personales",
+   "desc": "Tratamiento de datos personales; protección reforzada de los datos de menores de edad.",
+   "url": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html"
+  },
+  {
+   "ambito": "Interno",
+   "tipo": "Proposición",
+   "numero": "641 de 2026",
+   "titulo": "Debate de control político con cuestionario de la Mesa",
+   "desc": "Aprobada en plenaria del Concejo el 14 de julio de 2026. Cuestionario de 26 preguntas en 7 ejes a 9 entidades citadas.",
+   "url": ""
+  }
+ ],
+ "historia": [
+  {
+   "anio": "2003",
+   "titulo": "Los cabildantes llegan al Concejo",
+   "texto": "Desde 2003, cabildantes de las localidades presentan en plenarias las problemáticas de sus territorios para que los concejales hagan control político."
+  },
+  {
+   "anio": "2011",
+   "titulo": "Primer acuerdo del Día del Cabildante",
+   "texto": "Un acuerdo del Concejo crea el Día del Cabildante Estudiantil y le da forma a la figura. En 2015 fue derogado y reemplazado."
+  },
+  {
+   "anio": "2015",
+   "titulo": "Nace la Mesa Distrital",
+   "texto": "El 21 de agosto se expide el Acuerdo 597, que crea la Mesa Distrital de Cabildante Estudiantil y establece el Día del Cabildante."
+  },
+  {
+   "anio": "2016",
+   "titulo": "De diagnosticar a proponer",
+   "texto": "Entre 2016 y 2019 la Mesa se reorganiza: además de analizar los problemas de la ciudad, los cabildantes empiezan a presentar proyectos de acuerdo propios."
+  },
+  {
+   "anio": "2020",
+   "titulo": "La Mesa conduce la sesión",
+   "texto": "En la sesión de evaluación del 25 de septiembre, la presidencia del Concejo entrega la conducción a la mesa directiva de cabildantes."
+  },
+  {
+   "anio": "2023",
+   "titulo": "Una idea de cabildantes se vuelve acuerdo",
+   "texto": "La iniciativa que los cabildantes formularon en 2021 se aprueba como Acuerdo 882 de 2023: el Concejo destina una plenaria a un tema de control social propuesto por la Mesa."
+  },
+  {
+   "anio": "2026",
+   "titulo": "Proposición 641 y un sistema propio",
+   "texto": "El 14 de julio el Concejo aprueba la Proposición 641; el 30 de julio se realiza la sesión con 9 entidades citadas. La Mesa adopta su identidad visual y su sistema institucional, y rinde cuentas el 1 de octubre. El Concejo de Bogotá le confiere a la Mesa la Orden Civil al Mérito José Acevedo y Gómez."
+  }
+ ],
+ "logros": [
+  {
+   "cifra": "Orden",
+   "titulo": "Civil al Mérito José Acevedo y Gómez",
+   "texto": "Conferida por el Concejo de Bogotá a la Mesa Distrital de Cabildantes Estudiantiles en 2026."
+  },
+  {
+   "cifra": "20+",
+   "titulo": "alianzas en gestión",
+   "texto": "Instituciones, organismos de control, academia, organizaciones internacionales y medios con los que la Mesa conversa para trabajar juntos."
+  },
+  {
+   "cifra": "5+",
+   "titulo": "proyectos de acuerdo en construcción",
+   "texto": "Propuestas normativas que nacen de las comisiones y del buzón de iniciativas."
+  },
+  {
+   "cifra": "26",
+   "titulo": "preguntas de control político",
+   "texto": "Cuestionario en 7 ejes enviado a 9 entidades citadas por la Proposición 641."
+  },
+  {
+   "cifra": "12",
+   "titulo": "votos para el Sol de 20 localidades",
+   "texto": "La identidad visual la eligieron los propios cabildantes, y ya tiene logotipos oficiales."
+  },
+  {
+   "cifra": "1.º",
+   "titulo": "MUN-MDCE",
+   "texto": "Primer modelo de debate de la Mesa para formar cabildantes."
+  },
+  {
+   "cifra": "6+",
+   "titulo": "jornadas de formación",
+   "texto": "Más capacitaciones virtuales para cada comisión."
+  }
+ ],
+ "directorio": {
+  "mesa": [
+   {
+    "id": "m1",
+    "cargo": "Presidencia · II periodo",
+    "nombre": "Isabella Hermosa Osma",
+    "institucion": "Monterrosales Homeschool Bilingüe",
+    "localidad": "Usaquén",
+    "correo": "cabildantesdebogota@gmail.com, belladosma@gmail.com",
+    "telefono": "317 553 5238",
+    "bio": "Preside la Mesa en el segundo periodo: dirige las plenarias, representa a la Mesa ante el Concejo y las entidades, y firma sus comunicaciones oficiales.",
+    "foto": "galeria:mesa-isabella"
+   },
+   {
+    "id": "m0",
+    "cargo": "Presidencia · I periodo",
+    "nombre": "Isabella Montenegro",
+    "institucion": "",
+    "localidad": "",
+    "correo": "",
+    "telefono": "",
+    "bio": "Presidió la Mesa Distrital durante el primer periodo: condujo las plenarias, representó a los cabildantes ante el Concejo de Bogotá y las entidades del Distrito, y abrió el camino que hoy continúa la segunda presidencia.",
+    "foto": "galeria:mesa-montenegro"
+   },
+   {
+    "id": "m2",
+    "cargo": "Primera vicepresidencia",
+    "nombre": "Marlon Stiven Riaño Ardila",
+    "institucion": "Colegio Nuevo Liceo Santa Clara",
+    "localidad": "Rafael Uribe Uribe",
+    "correo": "marlonriaño68@gmail.com",
+    "telefono": "321 434 4067",
+    "bio": "Acompaña a la Presidencia en la conducción de la Mesa y la reemplaza en sus ausencias.",
+    "foto": "galeria:mesa-marlon"
+   },
+   {
+    "id": "m3",
+    "cargo": "Segunda vicepresidencia",
+    "nombre": "Juanita Rozo Vargas",
+    "institucion": "Colegio María Auxiliadora Casa Central",
+    "localidad": "Santa Fe",
+    "correo": "juanitarozovargas@gmail.com",
+    "telefono": "320 789 7247",
+    "bio": "Apoya a la Presidencia en la coordinación de la Mesa y de sus comisiones.",
+    "foto": "galeria:mesa-juanita"
+   },
+   {
+    "id": "m4",
+    "cargo": "Secretaría General",
+    "nombre": "Joel Páez",
+    "institucion": "",
+    "localidad": "Bosa",
+    "correo": "santiaguchis1986@gmail.com",
+    "telefono": "301 822 3863",
+    "bio": "Lleva las actas de las plenarias y recibe los informes de las comisiones.",
+    "foto": "galeria:mesa-joel"
+   }
+  ],
+  "miembros": [
+   {
+    "id": "d1",
+    "nombre": "",
+    "rol": "Presidencia de comisión",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d2",
+    "nombre": "",
+    "rol": "Vocería",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d3",
+    "nombre": "",
+    "rol": "Co-vocería",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d4",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d5",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d6",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C1",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d7",
+    "nombre": "",
+    "rol": "Presidencia de comisión",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d8",
+    "nombre": "",
+    "rol": "Vocería",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d9",
+    "nombre": "",
+    "rol": "Co-vocería",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d10",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d11",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d12",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C2",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d13",
+    "nombre": "",
+    "rol": "Presidencia de comisión",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d14",
+    "nombre": "",
+    "rol": "Vocería",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d15",
+    "nombre": "",
+    "rol": "Co-vocería",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d16",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d17",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d18",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C3",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d19",
+    "nombre": "",
+    "rol": "Presidencia de comisión",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d20",
+    "nombre": "",
+    "rol": "Vocería",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d21",
+    "nombre": "",
+    "rol": "Co-vocería",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d22",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d23",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   },
+   {
+    "id": "d24",
+    "nombre": "",
+    "rol": "Integrante",
+    "comision": "C4",
+    "localidad": "",
+    "institucion": "",
+    "correo": "",
+    "bio": "",
+    "foto": ""
+   }
+  ]
+ },
+ "proyectos": [
+  {
+   "id": "p1",
+   "titulo": "Sistema Distrital de Cabildantes",
+   "comision": "C3",
+   "etapa": 1,
+   "tipo": "Proyecto de acuerdo",
+   "resumen": "Darle a la figura del cabildante una estructura estable en todo el Distrito: elección, formación, acompañamiento y rendición de cuentas."
+  },
+  {
+   "id": "p2",
+   "titulo": "Salud mental en los colegios",
+   "comision": "C3",
+   "etapa": 2,
+   "tipo": "Proyecto de acuerdo",
+   "resumen": "Construido a partir de lo encontrado en la Proposición 641 y abierto a la coautoría de concejales de todas las bancadas."
+  },
+  {
+   "id": "p3",
+   "titulo": "Seguimiento a la Proposición 641",
+   "comision": "C1",
+   "etapa": 4,
+   "tipo": "Control político",
+   "resumen": "Revisamos las respuestas de las 9 entidades citadas con un semáforo de calidad y preparamos insistencias donde fueron parciales o evasivas."
+  },
+  {
+   "id": "p4",
+   "titulo": "Escuela de Veedores Estudiantiles",
+   "comision": "C2",
+   "etapa": 0,
+   "tipo": "Propuesta",
+   "resumen": "Formar a estudiantes en control social de la mano de la Veeduría Distrital, para vigilar los programas que llegan a sus colegios."
+  },
+  {
+   "id": "p5",
+   "titulo": "MUN-MDCE",
+   "comision": "C4",
+   "etapa": 4,
+   "tipo": "Formación",
+   "resumen": "Modelo de debate de la Mesa para entrenar a los cabildantes en argumentación, negociación y redacción de propuestas."
+  },
+  {
+   "id": "p6",
+   "titulo": "Ruta hacia el primer empleo",
+   "comision": "C4",
+   "etapa": 0,
+   "tipo": "Propuesta",
+   "resumen": "Una feria y una ruta de orientación para estudiantes de grado 10.º y 11.º sobre formación para el trabajo y primer empleo."
+  }
+ ],
+ "ruta": [
+  {
+   "t": "Convocatoria",
+   "d": "Tu colegio abre la convocatoria para elegir cabildante estudiantil, junto con el proceso de gobierno escolar.",
+   "cuando": "Inicio del año escolar"
+  },
+  {
+   "t": "Inscripción",
+   "d": "Pueden postularse estudiantes de grado 6.º a 11.º (Acuerdo 597 de 2015). Llega con una propuesta concreta para tu colegio y tu localidad.",
+   "cuando": "Según el calendario del colegio"
+  },
+  {
+   "t": "Campaña",
+   "d": "Presenta tus propuestas en los salones y escucha a tus compañeros. Una buena campaña pregunta más de lo que promete.",
+   "cuando": "Dos a tres semanas"
+  },
+  {
+   "t": "Elección",
+   "d": "Los estudiantes votan. El colegio levanta el acta y reporta a quien resulte elegido.",
+   "cuando": "Jornada electoral escolar"
+  },
+  {
+   "t": "Posesión",
+   "d": "Los cabildantes elegidos se posesionan y reciben su acreditación.",
+   "cuando": "Después de la elección"
+  },
+  {
+   "t": "Mesa local",
+   "d": "Los cabildantes de cada localidad se reúnen en la Mesa Estudiantil Local y eligen a quienes los representan en la Mesa Distrital.",
+   "cuando": "Primer semestre"
+  },
+  {
+   "t": "Mesa Distrital",
+   "d": "Instalación de la Mesa, elección de la mesa directiva y conformación de las cuatro comisiones.",
+   "cuando": "Primer semestre"
+  },
+  {
+   "t": "Día del Cabildante",
+   "d": "Sesión plenaria en el Concejo de Bogotá el último viernes de mayo, como lo establece el Acuerdo 597 de 2015.",
+   "cuando": "Último viernes de mayo"
+  }
+ ],
+ "comunicados": [
+  {
+   "id": "c5",
+   "fecha": "2026-10-01",
+   "autor": "Presidencia",
+   "tipo": "Comunicado",
+   "titulo": "Bienvenidos a nuestra casa digital",
+   "cuerpo": "Durante años, lo que hacíamos en la Mesa quedaba repartido en chats, carpetas y fotos que solo veíamos nosotros. Hoy eso cambia. Esta página es para que cualquier estudiante de Bogotá sepa quién lo representa, qué estamos haciendo y cómo puede hacerse escuchar.\n\nAquí van a encontrar el buzón de iniciativas, el directorio, nuestra agenda y una sala de prensa. También abrimos la red: si eres concejal, funcionario, parte de una organización o periodista, queremos trabajar contigo.\n\nY se viene algo más: un podcast para contar con calma lo que en el recinto se dice en tres minutos. Esta casa es de todos los cabildantes. Bienvenidos.",
+   "firma": "Isabella Hermosa Osma\nPresidenta de la Mesa Distrital de Cabildantes Estudiantiles"
+  },
+  {
+   "id": "c1",
+   "fecha": "2026-09-28",
+   "autor": "Presidencia",
+   "tipo": "Convocatoria",
+   "titulo": "Nos vemos el 1 de octubre en el Concejo",
+   "cuerpo": "Querida Mesa: el 1 de octubre volvemos a encontrarnos en el recinto del Concejo de Bogotá. Cada comisión nos va a contar cómo le fue este año: lo que se propuso, lo que logró, lo que le respondieron las entidades y también lo que no salió, porque eso también se cuenta.\n\nLleguen puntuales, con su credencial y con ganas de escuchar. Las familias, los docentes y nuestros aliados están invitados a acompañarnos.",
+   "firma": "Isabella Hermosa Osma\nPresidenta de la Mesa Distrital de Cabildantes Estudiantiles"
+  },
+  {
+   "id": "c2",
+   "fecha": "2026-09-15",
+   "autor": "Presidencia",
+   "tipo": "Comunicado",
+   "titulo": "Ya tenemos cara: el Sol de 20 localidades",
+   "cuerpo": "Ustedes votaron y ganó el Sol de 20 localidades, con 12 votos. El Megáfono, con 8, fue una propuesta que nos hizo pensar mucho; gracias a quienes la defendieron.\n\nMe gusta lo que dice este escudo: veinte rayos distintos que salen del mismo centro. Así somos. Venimos de colegios, barrios y realidades muy diferentes, pero cuando nos sentamos juntos somos una sola mesa.\n\nLos logotipos oficiales ya están en la sala de prensa. Úsenlos con orgullo y con cuidado: no los deformen ni les cambien los colores.",
+   "firma": "Isabella Hermosa Osma\nPresidenta de la Mesa Distrital de Cabildantes Estudiantiles"
+  },
+  {
+   "id": "c3",
+   "fecha": "2026-09-10",
+   "autor": "Secretaría General",
+   "tipo": "Circular",
+   "titulo": "Informes de comisión: plazo hasta el 28 de septiembre",
+   "cuerpo": "Las comisiones de Control Político, Control Social, Gestión Normativa y Participación Incidente entregan su informe de gestión a la Secretaría General a más tardar el 28 de septiembre de 2026.\n\nDos reglas para que el informe sirva: cada cifra debe poder rastrearse hasta un registro concreto, y ningún dato personal de un menor de edad debe aparecer en el documento. Si tienen dudas, escríbanle a la Secretaría.",
+   "firma": "Joel Páez\nSecretario General"
+  },
+  {
+   "id": "c4",
+   "fecha": "2026-08-01",
+   "autor": "Presidencia",
+   "tipo": "Comunicado",
+   "titulo": "Lo que dijimos el 30 de julio no se queda en el recinto",
+   "cuerpo": "El 30 de julio nos sentamos frente a nueve entidades del Distrito con 26 preguntas sobre la salud mental y el bienestar de los estudiantes. Cada una de esas preguntas la escribió alguien de esta Mesa. Gracias.\n\nAhora viene la parte que no sale en las fotos: leer cada respuesta, calificarla con honestidad y volver a preguntar donde nos respondieron a medias. Un debate de control político no termina cuando se apagan los micrófonos. Termina cuando las cosas cambian en los colegios.",
+   "firma": "Isabella Hermosa Osma\nPresidenta de la Mesa Distrital de Cabildantes Estudiantiles"
+  }
+ ],
+ "agenda": [
+  {
+   "id": "e1",
+   "fecha": "2026-10-01",
+   "hora": "",
+   "tipo": "sesion",
+   "titulo": "Plenaria de la Mesa Distrital",
+   "lugar": "Concejo de Bogotá",
+   "estado": "Confirmada",
+   "desc": "Encuentro de la Mesa en el Concejo de Bogotá: balance de las cuatro comisiones, formación, alianzas y hoja de ruta 2027.",
+   "soloMes": false
+  },
+  {
+   "id": "e2",
+   "fecha": "2026-10-15",
+   "hora": "",
+   "tipo": "capacitacion",
+   "titulo": "Capacitaciones virtuales por comisión",
+   "lugar": "Virtual",
+   "estado": "Fecha por confirmar",
+   "desc": "Una jornada virtual para cada comisión: herramientas de control político, control social, gestión normativa y participación.",
+   "soloMes": true
+  },
+  {
+   "id": "e3",
+   "fecha": "2026-11-15",
+   "hora": "",
+   "tipo": "evento",
+   "titulo": "La Mesa vuelve a las localidades",
+   "lugar": "Las 20 localidades",
+   "estado": "Fecha por confirmar",
+   "desc": "Cada Mesa Estudiantil Local recibe el balance del año, como lo prevé el Acuerdo 597 de 2015. Es la oportunidad de contarle a cada colegio lo que se hizo con su voz.",
+   "soloMes": true
+  },
+  {
+   "id": "e4",
+   "fecha": "2027-05-28",
+   "hora": "",
+   "tipo": "sesion",
+   "titulo": "Día del Cabildante Estudiantil",
+   "lugar": "Concejo de Bogotá",
+   "estado": "Por Acuerdo 597",
+   "desc": "Cada último viernes de mayo el Concejo de Bogotá abre su recinto a los cabildantes en una sesión plenaria. Es nuestro día.",
+   "soloMes": false
+  },
+  {
+   "id": "e5",
+   "fecha": "2026-09-28",
+   "hora": "",
+   "tipo": "plazo",
+   "titulo": "Entrega de informes de comisión",
+   "lugar": "Secretaría General",
+   "estado": "Cumplido",
+   "desc": "Cierre del plazo para que cada comisión entregue su informe a la Secretaría General.",
+   "soloMes": false
+  },
+  {
+   "id": "e6",
+   "fecha": "2026-07-30",
+   "hora": "",
+   "tipo": "sesion",
+   "titulo": "Sesión de control político: Proposición 641",
+   "lugar": "Concejo de Bogotá",
+   "estado": "Realizada",
+   "desc": "La Mesa presentó 26 preguntas en 7 ejes a 9 entidades citadas sobre salud mental y bienestar estudiantil.",
+   "soloMes": false
+  },
+  {
+   "id": "e7",
+   "fecha": "2026-07-14",
+   "hora": "",
+   "tipo": "sesion",
+   "titulo": "Aprobación de la Proposición 641",
+   "lugar": "Plenaria del Concejo",
+   "estado": "Realizada",
+   "desc": "La plenaria del Concejo aprobó la proposición que abrió el debate de control político de la Mesa.",
+   "soloMes": false
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-web",
+   "fecha": "2026-10-01",
+   "categoria": "La Mesa",
+   "destacada": true,
+   "titulo": "La Mesa estrena casa digital",
+   "resumen": "Buzón de iniciativas, directorio, sala de prensa, red de aliados y un asistente que responde tus preguntas: todo en un solo lugar.",
+   "cuerpo": "La Mesa Distrital de Cabildantes Estudiantiles ya tiene página propia. Fue pensada para que cualquier estudiante de Bogotá encuentre en un par de clics quién lo representa, qué está haciendo la Mesa y cómo hacerle llegar una propuesta.\n\nEl buzón de iniciativas recibe propuestas, alertas y preguntas para las entidades, y le entrega a cada persona un número de radicado para hacer seguimiento. El directorio presenta a la mesa directiva y a las cuatro comisiones. La sala de prensa reúne los datos clave, el contacto y los logotipos oficiales.\n\nTambién abrimos un formulario para quienes quieran sumarse a nuestra red: concejales, funcionarios, organizaciones, academia y medios. Y estrenamos un asistente que responde preguntas sobre la Mesa a cualquier hora.",
+   "imagen": "galeria:sesion-recinto",
+   "ilustracion": "sol"
+  },
+  {
+   "id": "n-podcast",
+   "fecha": "2026-10-01",
+   "categoria": "Podcast",
+   "destacada": true,
+   "titulo": "Se viene el podcast de la Mesa",
+   "resumen": "Conversaciones con cabildantes, concejales y expertos sobre lo que pasa en los colegios de Bogotá. Ya estamos buscando temas e invitados.",
+   "cuerpo": "La Mesa prepara su propio podcast: un espacio para contar con calma lo que en una sesión del Concejo se dice en tres minutos. Habrá cabildantes de las 20 localidades, invitados del Concejo y de las entidades, y voces expertas en salud mental, educación, seguridad y futuro laboral.\n\nEl nombre y la fecha de estreno están por confirmar. Mientras tanto, queremos escucharte: ¿de qué tema debería hablar el primer episodio? ¿A quién te gustaría oír? Escríbenos por el buzón de iniciativas o súmate a la red si quieres participar como invitado o como medio aliado.",
+   "imagen": "galeria:sesion-lectura",
+   "ilustracion": "megafono"
+  },
+  {
+   "id": "n-cartas",
+   "fecha": "2026-09-20",
+   "categoria": "Alianzas",
+   "destacada": true,
+   "titulo": "Más de 20 alianzas en camino",
+   "resumen": "La Presidencia firmó 25 cartas para tejer una red con organismos de control, academia, organizaciones internacionales y medios.",
+   "cuerpo": "Una mesa que quiere incidir no puede trabajar sola. Por eso la Presidencia firmó 25 cartas dirigidas a instituciones que pueden fortalecer el trabajo de la Mesa: la Veeduría Distrital, la Mesa Directiva del Concejo, la Secretaría de Educación, consultorios jurídicos, organizaciones internacionales, redes de participación juvenil y medios de comunicación.\n\nCada carta propone algo concreto: formación para veedores estudiantiles, espacios de seguimiento en el Concejo, apoyo técnico para los proyectos de acuerdo, o formatos para contar en los medios lo que pasa en los colegios. Hoy son más de 20 las alianzas en gestión.\n\nSi tu organización quiere sumarse, el formulario de la red está abierto.",
+   "imagen": "galeria:sesion-conversacion",
+   "ilustracion": "buzon"
+  },
+  {
+   "id": "n-identidad",
+   "fecha": "2026-09-15",
+   "categoria": "Identidad",
+   "destacada": true,
+   "titulo": "Veinte rayos, una sola mesa: así nació nuestra identidad",
+   "resumen": "Los cabildantes eligieron por votación el Sol de 20 localidades. Ya están disponibles los logotipos oficiales.",
+   "cuerpo": "La identidad de la Mesa no la escogió una agencia: la votaron los cabildantes. La propuesta Sol de 20 localidades obtuvo 12 votos y se impuso a El Megáfono, que obtuvo 8.\n\nEl escudo tiene una idea sencilla: veinte rayos, uno por cada localidad, que nacen de una misma estrella, la Mesa. El lema lo dice en cinco palabras: Veinte localidades, una sola mesa. El azul cabildo y el oro son sus colores, y cada comisión tiene su propio tono de azul.\n\nYa están listos los logotipos oficiales en versiones horizontal, vertical, firma con lema, escudo y escudos por comisión, en formatos SVG y PNG. Están en la sala de prensa, con su guía de uso.",
+   "imagen": "galeria:identidad-logos",
+   "ilustracion": "sol"
+  },
+  {
+   "id": "n-proyectos",
+   "fecha": "2026-09-30",
+   "categoria": "Gestión normativa",
+   "destacada": false,
+   "titulo": "Cinco proyectos de acuerdo toman forma",
+   "resumen": "Desde un Sistema Distrital de Cabildantes hasta la salud mental en los colegios: las propuestas que la Mesa quiere llevar al Concejo.",
+   "cuerpo": "La Comisión de Gestión Normativa trabaja en más de cinco proyectos de acuerdo. Entre ellos están el Sistema Distrital de Cabildantes, que busca darle a la figura una estructura estable en todo el Distrito, y un proyecto sobre salud mental en los colegios construido a partir de lo encontrado en la Proposición 641.\n\nCada propuesta pasa por un banco de iniciativas, una revisión técnica y jurídica, y una conversación con concejales de distintas bancadas antes de radicarse. Las que están abiertas reciben aportes por el buzón.",
+   "imagen": "galeria:intervencion-atril-2",
+   "ilustracion": "libro"
+  },
+  {
+   "id": "n-plenaria",
+   "fecha": "2026-09-29",
+   "categoria": "Plenarias",
+   "destacada": false,
+   "titulo": "Plenaria de octubre: las comisiones hacen balance",
+   "resumen": "El 1 de octubre las cuatro comisiones cuentan qué hicieron, qué obtuvieron y qué queda pendiente para 2027.",
+   "cuerpo": "La plenaria del 1 de octubre reúne a la Mesa en el Concejo de Bogotá. Cada comisión presenta su balance del año: los temas que priorizó, las respuestas que obtuvo de las entidades y los pendientes que le entrega a la mesa entrante.\n\nEn la agenda también están la formación, las alianzas y la hoja de ruta de 2027.",
+   "imagen": "galeria:plenaria-recinto",
+   "ilustracion": "capitolio"
+  },
+  {
+   "id": "n-641",
+   "fecha": "2026-07-31",
+   "categoria": "Control político",
+   "destacada": false,
+   "titulo": "26 preguntas y 9 entidades: así fue el 30 de julio",
+   "resumen": "La Mesa llevó al Concejo su cuestionario sobre salud mental y bienestar de los estudiantes.",
+   "cuerpo": "El 30 de julio, en el recinto del Concejo de Bogotá, la Mesa presentó un cuestionario de 26 preguntas en 7 ejes a nueve entidades citadas: la Secretaría de Salud, las cuatro Subredes, Integración Social, la Secretaría de la Mujer, la Secretaría de Educación e IDIPRON. La Personería, la Contraloría y la Veeduría fueron invitadas.\n\nAhora sigue lo menos visible y lo más importante: leer cada respuesta, calificarla y volver a preguntar donde no hubo una respuesta de fondo.",
+   "imagen": "galeria:sesion-curules",
+   "ilustracion": "megafono"
+  },
+  {
+   "id": "n-proposicion",
+   "fecha": "2026-07-15",
+   "categoria": "Control político",
+   "destacada": false,
+   "titulo": "El Concejo aprobó la Proposición 641",
+   "resumen": "La plenaria del Concejo aprobó el 14 de julio la proposición que abrió el debate de control político de la Mesa.",
+   "cuerpo": "Con la aprobación de la Proposición 641 de 2026, el Concejo de Bogotá abrió la puerta para que la Mesa citara a las entidades responsables de la salud mental y el bienestar de los estudiantes.\n\nFue el punto de partida de la sesión del 30 de julio.",
+   "imagen": "galeria:intervencion-atril",
+   "ilustracion": "libro"
+  }
+ ],
+ "transparencia": {
+  "indicadores": [
+   {
+    "label": "Sesiones plenarias en 2026",
+    "valor": "3",
+    "nota": "Por confirmar"
+   },
+   {
+    "label": "Sesiones de comisión",
+    "valor": "9",
+    "nota": "Por confirmar"
+   },
+   {
+    "label": "Preguntas formuladas (Proposición 641)",
+    "valor": "26",
+    "nota": ""
+   },
+   {
+    "label": "Entidades citadas",
+    "valor": "9",
+    "nota": ""
+   },
+   {
+    "label": "Organismos de control invitados",
+    "valor": "3",
+    "nota": ""
+   }
+  ],
+  "semaforo": {
+   "verde": null,
+   "amarillo": null,
+   "naranja": null,
+   "rojo": null
+  },
+  "documentos": [
+   {
+    "titulo": "Acuerdo 597 de 2015",
+    "tipo": "Norma",
+    "fecha": "2015-08-21",
+    "estado": "Publicado",
+    "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=62807"
+   },
+   {
+    "titulo": "Acuerdo 882 de 2023",
+    "tipo": "Norma",
+    "fecha": "2023-03-22",
+    "estado": "Publicado",
+    "url": "https://concejodebogota.gov.co/concejo/site/docs/20230209/asocfile/20230209170105/edicion_740_acuerdo_882_887_marzo_del_2023.pdf"
+   },
+   {
+    "titulo": "Informe de rendición de cuentas 2026",
+    "tipo": "Informe",
+    "fecha": "2026-10-01",
+    "estado": "Se publica tras la plenaria",
+    "url": ""
+   },
+   {
+    "titulo": "Informes de gestión por comisión (9-A a 9-D)",
+    "tipo": "Informe",
+    "fecha": "2026-09-28",
+    "estado": "En consolidación",
+    "url": ""
+   },
+   {
+    "titulo": "Consolidado de rendición de cuentas (Excel)",
+    "tipo": "Datos",
+    "fecha": "2026-09-30",
+    "estado": "En consolidación",
+    "url": ""
+   },
+   {
+    "titulo": "Manual institucional de la Mesa",
+    "tipo": "Reglamento",
+    "fecha": "2026-09-01",
+    "estado": "Disponible a solicitud",
+    "url": ""
+   },
+   {
+    "titulo": "Manual de identidad visual",
+    "tipo": "Marca",
+    "fecha": "2026-09-15",
+    "estado": "Disponible en Sala de prensa",
+    "url": "#/prensa"
+   }
+  ]
+ },
+ "prensa": {
+  "boilerplate": "La Mesa Distrital de Cabildantes Estudiantiles (MDCE) es la instancia que reúne a los cabildantes estudiantiles de los colegios de Bogotá. Creada por el Acuerdo 597 de 2015 del Concejo de Bogotá, hace control político y social, formula iniciativas normativas y promueve la participación estudiantil en las 20 localidades.",
+  "contacto": {
+   "nombre": "Presidencia de la MDCE · Isabella Hermosa Osma",
+   "correo": "cabildantesdebogota@gmail.com, belladosma@gmail.com",
+   "telefono": ""
+  },
+  "menciones": []
+ },
+ "voces": [
+  {
+   "id": "v1",
+   "tipo": "Poema",
+   "titulo": "Veinte",
+   "autor": "Cabildante",
+   "localidad": "",
+   "ejemplo": true,
+   "texto": "Somos veinte ventanas\nque dan a la misma calle.\nDesde Sumapaz hasta Usaquén\nla pregunta es una sola:\n¿quién decide por nosotros\nsi no estamos en la mesa?"
+  },
+  {
+   "id": "v2",
+   "tipo": "Columna",
+   "titulo": "Lo que aprendí preguntándole al Distrito",
+   "autor": "Cabildante",
+   "localidad": "",
+   "ejemplo": true,
+   "texto": "Una pregunta bien hecha obliga a una respuesta. Una respuesta evasiva también dice algo. Este año aprendimos a leer las dos."
+  },
+  {
+   "id": "v3",
+   "tipo": "Crónica",
+   "titulo": "Mi colegio en el recinto",
+   "autor": "Cabildante",
+   "localidad": "",
+   "ejemplo": true,
+   "texto": "Llegué al Concejo con una carpeta y miedo de hablar. Salí con tres compromisos por escrito y ganas de volver."
+  }
+ ],
+ "aliados": [
+  {
+   "nombre": "Concejo de Bogotá",
+   "tipo": "Institucional",
+   "estado": "Institucional",
+   "url": "https://concejodebogota.gov.co"
+  },
+  {
+   "nombre": "Secretaría de Educación del Distrito",
+   "tipo": "Institucional",
+   "estado": "Institucional",
+   "url": "https://www.educacionbogota.edu.co"
+  },
+  {
+   "nombre": "Veeduría Distrital",
+   "tipo": "Control",
+   "estado": "En conversación",
+   "url": "https://www.veeduriadistrital.gov.co"
+  },
+  {
+   "nombre": "Personería de Bogotá",
+   "tipo": "Control",
+   "estado": "En conversación",
+   "url": "https://www.personeriabogota.gov.co"
+  },
+  {
+   "nombre": "Contraloría de Bogotá",
+   "tipo": "Control",
+   "estado": "En conversación",
+   "url": "https://www.contraloriabogota.gov.co"
+  },
+  {
+   "nombre": "IDPAC",
+   "tipo": "Participación",
+   "estado": "En conversación",
+   "url": "https://www.participacionbogota.gov.co"
+  },
+  {
+   "nombre": "UNICEF Colombia",
+   "tipo": "Internacional",
+   "estado": "En conversación",
+   "url": "https://www.unicef.org/colombia"
+  },
+  {
+   "nombre": "PNUD Colombia",
+   "tipo": "Internacional",
+   "estado": "En conversación",
+   "url": "https://www.undp.org/es/colombia"
+  },
+  {
+   "nombre": "OEI",
+   "tipo": "Internacional",
+   "estado": "En conversación",
+   "url": "https://oei.int"
+  },
+  {
+   "nombre": "Bogotá Cómo Vamos",
+   "tipo": "Sociedad civil",
+   "estado": "En conversación",
+   "url": "https://bogotacomovamos.org"
+  },
+  {
+   "nombre": "Cámara de Comercio de Bogotá",
+   "tipo": "Privado",
+   "estado": "En conversación",
+   "url": "https://www.ccb.org.co"
+  },
+  {
+   "nombre": "Canal Capital",
+   "tipo": "Medios",
+   "estado": "En conversación",
+   "url": "https://www.canalcapital.gov.co"
+  }
+ ],
+ "faq": [
+  {
+   "q": "¿Quién puede ser cabildante estudiantil?",
+   "a": "Estudiantes de grado 6.º a 11.º de los colegios de Bogotá, elegidos por sus compañeros según el Acuerdo 597 de 2015."
+  },
+  {
+   "q": "¿Qué diferencia hay entre cabildante y personero?",
+   "a": "El personero promueve los derechos de los estudiantes dentro del colegio. El cabildante lleva la voz de su colegio y su localidad ante el Concejo de Bogotá."
+  },
+  {
+   "q": "¿Puedo enviar una propuesta si no soy cabildante?",
+   "a": "Sí. El buzón de iniciativas está abierto a estudiantes, docentes, familias y ciudadanía. La comisión que corresponda la revisa."
+  },
+  {
+   "q": "¿Cómo sé qué pasó con mi iniciativa?",
+   "a": "Al enviarla recibes un número de radicado. Con ese número puedes preguntar por su estado al correo de la Mesa."
+  },
+  {
+   "q": "¿La Mesa publica datos personales de menores?",
+   "a": "No publicamos datos de contacto personales de menores de edad. Los contactos de este sitio son canales institucionales."
+  }
+ ],
+ "galeria": [
+  {
+   "id": "mesa-todos",
+   "src": "assets/img/fotos/mesa-todos.jpg",
+   "caption": "Cabildantes de la Mesa Distrital en el recinto del Concejo de Bogotá",
+   "alt": "Cabildantes de la Mesa Distrital en el recinto del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 475,
+   "h": 633
+  },
+  {
+   "id": "plenaria-aplausos",
+   "src": "assets/img/fotos/plenaria-aplausos.jpg",
+   "caption": "Cabildantes celebran en el recinto del Concejo de Bogotá",
+   "alt": "Cabildantes celebran en el recinto del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 432,
+   "h": 576
+  },
+  {
+   "id": "plenaria-recinto",
+   "src": "assets/img/fotos/plenaria-recinto.jpg",
+   "caption": "Plenaria de cabildantes en el recinto del Concejo de Bogotá",
+   "alt": "Plenaria de cabildantes en el recinto del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 681,
+   "h": 511
+  },
+  {
+   "id": "grupo-certificados",
+   "src": "assets/img/fotos/grupo-certificados.jpg",
+   "caption": "Cabildantes con el reconocimiento del Concejo de Bogotá",
+   "alt": "Cabildantes con el reconocimiento del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 681,
+   "h": 511
+  },
+  {
+   "id": "orden-civil",
+   "src": "assets/img/fotos/orden-civil.jpg",
+   "caption": "Resolución y banda de la Orden Civil al Mérito José Acevedo y Gómez",
+   "alt": "Resolución y banda de la Orden Civil al Mérito José Acevedo y Gómez",
+   "album": "Reconocimiento",
+   "w": 432,
+   "h": 576
+  },
+  {
+   "id": "biblioteca-grupo",
+   "src": "assets/img/fotos/biblioteca-grupo.jpg",
+   "caption": "Cabildantes en la biblioteca del Concejo de Bogotá",
+   "alt": "Cabildantes en la biblioteca del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "biblioteca-saludo",
+   "src": "assets/img/fotos/biblioteca-saludo.jpg",
+   "caption": "Cabildantes en la biblioteca del Concejo de Bogotá",
+   "alt": "Cabildantes en la biblioteca del Concejo de Bogotá",
+   "album": "Concejo",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-secretaria",
+   "src": "assets/img/fotos/sesion-secretaria.jpg",
+   "caption": "Mesa de la Secretaría durante la sesión",
+   "alt": "Mesa de la Secretaría durante la sesión",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-dialogo",
+   "src": "assets/img/fotos/sesion-dialogo.jpg",
+   "caption": "Diálogo entre una cabildante y un concejal en el recinto",
+   "alt": "Diálogo entre una cabildante y un concejal en el recinto",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-selfie",
+   "src": "assets/img/fotos/sesion-selfie.jpg",
+   "caption": "Una cabildante y un concejal durante la sesión",
+   "alt": "Una cabildante y un concejal durante la sesión",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-lectura",
+   "src": "assets/img/fotos/sesion-lectura.jpg",
+   "caption": "Una cabildante revisa documentos durante la sesión",
+   "alt": "Una cabildante revisa documentos durante la sesión",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-conversacion",
+   "src": "assets/img/fotos/sesion-conversacion.jpg",
+   "caption": "Una cabildante conversa con un concejal en su curul",
+   "alt": "Una cabildante conversa con un concejal en su curul",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "mesa-directiva",
+   "src": "assets/img/fotos/mesa-directiva.jpg",
+   "caption": "Cabildantes en la mesa directiva del recinto",
+   "alt": "Cabildantes en la mesa directiva del recinto",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-curules",
+   "src": "assets/img/fotos/sesion-curules.jpg",
+   "caption": "Cabildantes y concejales en las curules del recinto",
+   "alt": "Cabildantes y concejales en las curules del recinto",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "sesion-recinto",
+   "src": "assets/img/fotos/sesion-recinto.jpg",
+   "caption": "Cabildantes durante la sesión en el Concejo",
+   "alt": "Cabildantes durante la sesión en el Concejo",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "intervencion-atril",
+   "src": "assets/img/fotos/intervencion-atril.jpg",
+   "caption": "Intervención desde el atril durante la sesión",
+   "alt": "Intervención desde el atril durante la sesión",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "intervencion-atril-2",
+   "src": "assets/img/fotos/intervencion-atril-2.jpg",
+   "caption": "Intervención ante la mesa directiva de cabildantes",
+   "alt": "Intervención ante la mesa directiva de cabildantes",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "cabildante-curul",
+   "src": "assets/img/fotos/cabildante-curul.jpg",
+   "caption": "Una cabildante en su curul del Concejo",
+   "alt": "Una cabildante en su curul del Concejo",
+   "album": "Sesión",
+   "w": 681,
+   "h": 454
+  },
+  {
+   "id": "cabildante-retrato",
+   "src": "assets/img/fotos/cabildante-retrato.jpg",
+   "caption": "Una cabildante en el recinto del Concejo",
+   "alt": "Una cabildante en el recinto del Concejo",
+   "album": "Sesión",
+   "w": 384,
+   "h": 576
+  },
+  {
+   "id": "mesa-isabella",
+   "src": "assets/img/fotos/mesa-isabella.jpg",
+   "caption": "Isabella Hermosa Osma, presidenta de la Mesa",
+   "alt": "Isabella Hermosa Osma, presidenta de la Mesa",
+   "album": "Mesa directiva",
+   "w": 520,
+   "h": 598
+  },
+  {
+   "id": "mesa-montenegro",
+   "src": "assets/img/fotos/mesa-montenegro.jpg",
+   "caption": "Isabella Montenegro, presidenta de la Mesa en el primer periodo",
+   "alt": "Isabella Montenegro, presidenta de la Mesa en el primer periodo",
+   "album": "Mesa directiva",
+   "w": 520,
+   "h": 598
+  },
+  {
+   "id": "mesa-marlon",
+   "src": "assets/img/fotos/mesa-marlon.jpg",
+   "caption": "Marlon Stiven Riaño Ardila, primer vicepresidente",
+   "alt": "Marlon Stiven Riaño Ardila, primer vicepresidente",
+   "album": "Mesa directiva",
+   "w": 520,
+   "h": 598
+  },
+  {
+   "id": "mesa-juanita",
+   "src": "assets/img/fotos/mesa-juanita.jpg",
+   "caption": "Juanita Rozo Vargas, segunda vicepresidenta",
+   "alt": "Juanita Rozo Vargas, segunda vicepresidenta",
+   "album": "Mesa directiva",
+   "w": 520,
+   "h": 598
+  },
+  {
+   "id": "mesa-joel",
+   "src": "assets/img/fotos/mesa-joel.jpg",
+   "caption": "Joel Páez, secretario general",
+   "alt": "Joel Páez, secretario general",
+   "album": "Mesa directiva",
+   "w": 520,
+   "h": 598
+  },
+  {
+   "id": "identidad-logos",
+   "src": "assets/img/fotos/identidad-logos.jpg",
+   "caption": "Hoja de logotipos oficiales de la Mesa",
+   "alt": "Hoja de logotipos oficiales de la MDCE: escudos, logotipos y escudos de comisión",
+   "album": "Identidad",
+   "w": 900,
+   "h": 643
+  }
+ ],
+ "lineas": [
+  {
+   "numero": "123",
+   "titulo": "Línea de emergencias",
+   "texto": "Policía, ambulancias y bomberos en Bogotá."
+  },
+  {
+   "numero": "106",
+   "titulo": "Línea 106",
+   "texto": "Apoyo emocional para niñas, niños y adolescentes de Bogotá."
+  },
+  {
+   "numero": "141",
+   "titulo": "Línea ICBF",
+   "texto": "Protección de niñas, niños y adolescentes."
+  },
+  {
+   "numero": "155",
+   "titulo": "Línea 155",
+   "texto": "Orientación a mujeres víctimas de violencia."
+  }
+ ],
+ "marca": {
+  "archivos": [
+   {
+    "id": "logo-horizontal-color",
+    "nombre": "MDCE-logo-horizontal-color.svg",
+    "uso": "Uso preferente sobre fondos blancos o claros",
+    "src": "assets/logos/svg/MDCE-logo-horizontal-color.svg"
+   },
+   {
+    "id": "logo-horizontal-negativo",
+    "nombre": "MDCE-logo-horizontal-negativo.svg",
+    "uso": "Sobre el azul de la marca o fondos oscuros",
+    "src": "assets/logos/svg/MDCE-logo-horizontal-negativo.svg"
+   },
+   {
+    "id": "logo-horizontal-azul",
+    "nombre": "MDCE-logo-horizontal-azul.svg",
+    "uso": "A una tinta: sellos, fotocopias, un solo color",
+    "src": "assets/logos/svg/MDCE-logo-horizontal-azul.svg"
+   },
+   {
+    "id": "logo-horizontal-blanco",
+    "nombre": "MDCE-logo-horizontal-blanco.svg",
+    "uso": "A una tinta sobre fotos oscuras",
+    "src": "assets/logos/svg/MDCE-logo-horizontal-blanco.svg"
+   },
+   {
+    "id": "logo-vertical-color",
+    "nombre": "MDCE-logo-vertical-color.svg",
+    "uso": "Versión vertical sobre fondos claros",
+    "src": "assets/logos/svg/MDCE-logo-vertical-color.svg"
+   },
+   {
+    "id": "logo-vertical-negativo",
+    "nombre": "MDCE-logo-vertical-negativo.svg",
+    "uso": "Versión vertical sobre fondos oscuros",
+    "src": "assets/logos/svg/MDCE-logo-vertical-negativo.svg"
+   },
+   {
+    "id": "logo-vertical-azul",
+    "nombre": "MDCE-logo-vertical-azul.svg",
+    "uso": "Versión vertical a una tinta",
+    "src": "assets/logos/svg/MDCE-logo-vertical-azul.svg"
+   },
+   {
+    "id": "logo-vertical-blanco",
+    "nombre": "MDCE-logo-vertical-blanco.svg",
+    "uso": "Versión vertical en blanco",
+    "src": "assets/logos/svg/MDCE-logo-vertical-blanco.svg"
+   },
+   {
+    "id": "firma-con-lema-color",
+    "nombre": "MDCE-firma-con-lema-color.svg",
+    "uso": "Cierres de piezas, presentaciones y pendones",
+    "src": "assets/logos/svg/MDCE-firma-con-lema-color.svg"
+   },
+   {
+    "id": "firma-con-lema-negativo",
+    "nombre": "MDCE-firma-con-lema-negativo.svg",
+    "uso": "Firma con lema sobre fondos oscuros",
+    "src": "assets/logos/svg/MDCE-firma-con-lema-negativo.svg"
+   },
+   {
+    "id": "escudo-color",
+    "nombre": "MDCE-escudo-color.svg",
+    "uso": "Escudo solo, sobre fondos claros",
+    "src": "assets/logos/svg/MDCE-escudo-color.svg"
+   },
+   {
+    "id": "escudo-negativo",
+    "nombre": "MDCE-escudo-negativo.svg",
+    "uso": "Escudo solo, sobre fondos oscuros",
+    "src": "assets/logos/svg/MDCE-escudo-negativo.svg"
+   },
+   {
+    "id": "escudo-azul",
+    "nombre": "MDCE-escudo-azul.svg",
+    "uso": "Escudo a una tinta",
+    "src": "assets/logos/svg/MDCE-escudo-azul.svg"
+   },
+   {
+    "id": "escudo-blanco",
+    "nombre": "MDCE-escudo-blanco.svg",
+    "uso": "Escudo en blanco",
+    "src": "assets/logos/svg/MDCE-escudo-blanco.svg"
+   },
+   {
+    "id": "escudo-reducido-color",
+    "nombre": "MDCE-escudo-reducido-color.svg",
+    "uso": "Tamaños pequeños (menos de 32 px o 10 mm)",
+    "src": "assets/logos/svg/MDCE-escudo-reducido-color.svg"
+   },
+   {
+    "id": "escudo-reducido-negativo",
+    "nombre": "MDCE-escudo-reducido-negativo.svg",
+    "uso": "Tamaños pequeños sobre fondos oscuros",
+    "src": "assets/logos/svg/MDCE-escudo-reducido-negativo.svg"
+   },
+   {
+    "id": "favicon",
+    "nombre": "MDCE-favicon.svg",
+    "uso": "Ícono de página web",
+    "src": "assets/logos/svg/MDCE-favicon.svg"
+   },
+   {
+    "id": "comision-C1-control-politico",
+    "nombre": "MDCE-comision-C1-control-politico.svg",
+    "uso": "Escudo de la Comisión de Control Político",
+    "src": "assets/logos/svg/MDCE-comision-C1-control-politico.svg"
+   },
+   {
+    "id": "comision-C2-control-social",
+    "nombre": "MDCE-comision-C2-control-social.svg",
+    "uso": "Escudo de la Comisión de Control Social",
+    "src": "assets/logos/svg/MDCE-comision-C2-control-social.svg"
+   },
+   {
+    "id": "comision-C3-gestion-normativa",
+    "nombre": "MDCE-comision-C3-gestion-normativa.svg",
+    "uso": "Escudo de la Comisión de Gestión Normativa",
+    "src": "assets/logos/svg/MDCE-comision-C3-gestion-normativa.svg"
+   },
+   {
+    "id": "comision-C4-participacion-incidente",
+    "nombre": "MDCE-comision-C4-participacion-incidente.svg",
+    "uso": "Escudo de la Comisión de Participación Incidente",
+    "src": "assets/logos/svg/MDCE-comision-C4-participacion-incidente.svg"
+   }
+  ],
+  "kitZip": "assets/logos/MDCE-logotipos.zip"
+ },
+ "unete": {
+  "tipos": [
+   "Cabildante o exintegrante de la Mesa",
+   "Estudiante",
+   "Concejal o equipo de concejal",
+   "Edil o Junta Administradora Local",
+   "Magistrado, juez o rama judicial",
+   "Funcionario público",
+   "Organismo de control",
+   "Organización social o fundación",
+   "Organización internacional",
+   "Universidad o academia",
+   "Medio de comunicación o periodista",
+   "Empresa o caja de compensación",
+   "Docente u orientador",
+   "Madre, padre o acudiente",
+   "Otro"
+  ],
+  "intereses": [
+   "Seguir a la Mesa en redes",
+   "Recibir el boletín",
+   "Proponer una alianza",
+   "Invitar a la Mesa a un evento",
+   "Participar en el podcast",
+   "Entrevista o cubrimiento de prensa",
+   "Apoyo técnico o jurídico",
+   "Formación para cabildantes",
+   "Voluntariado"
+  ]
+ },
+ "podcast": {
+  "titulo": "El podcast de la Mesa",
+  "estado": "Próximamente",
+  "nombre": "Nombre por confirmar",
+  "texto": "Conversaciones con cabildantes de las 20 localidades, concejales, entidades y expertos sobre lo que pasa en los colegios de Bogotá: salud mental, seguridad, educación y futuro.",
+  "episodios": [],
+  "plataformas": []
+ },
+ "legal": [
+  {
+   "id": "terminos",
+   "titulo": "Términos y condiciones de uso",
+   "resumen": "Las reglas para usar este sitio web y sus servicios.",
+   "secciones": [
+    {
+     "t": "1. Quiénes somos",
+     "p": "Este sitio web es administrado por la Mesa Distrital de Cabildantes Estudiantiles de Bogotá D.C. (MDCE), instancia de participación estudiantil creada por el Acuerdo 597 de 2015 del Concejo de Bogotá y modificada por el Acuerdo 882 de 2023. Correo de contacto: cabildantesdebogota@gmail.com.\n\nLa MDCE no es una entidad pública ni hace parte de la administración distrital. No expide actos administrativos ni resuelve trámites de las entidades del Distrito."
+    },
+    {
+     "t": "2. Aceptación",
+     "p": "Al navegar o usar los servicios de este sitio (buzón de iniciativas, formulario de la red, boletín y asistente) aceptas estos términos, la Política de tratamiento de datos personales y la Política de cookies. Si no estás de acuerdo, te pedimos no usar los formularios."
+    },
+    {
+     "t": "3. Uso permitido",
+     "p": "Puedes consultar, citar y compartir la información del sitio con fines informativos, educativos, periodísticos y de participación ciudadana, indicando la fuente. No está permitido:\n- Enviar información falsa, suplantar a otra persona o usar datos de terceros sin su autorización.\n- Publicar o enviar contenido ofensivo, discriminatorio, violento o que vulnere derechos de niñas, niños y adolescentes.\n- Intentar acceder sin autorización al panel de administración, a los servidores o a los datos de otras personas.\n- Usar el sitio o el asistente para enviar publicidad, cadenas o mensajes masivos."
+    },
+    {
+     "t": "4. Buzón de iniciativas y formularios",
+     "p": "Las iniciativas, alertas y preguntas que envías llegan al correo oficial de la Mesa y se asignan a la comisión que corresponda. El número de radicado sirve para hacer seguimiento, pero no constituye un derecho de petición ante una entidad pública ni obliga a la Mesa a un plazo legal de respuesta.\n\nSi necesitas respuesta de una entidad del Distrito, presenta un derecho de petición directamente ante ella (Ley 1755 de 2015). El buzón no es un canal de emergencias: ante un riesgo para la vida o la integridad, llama a la Línea 123."
+    },
+    {
+     "t": "5. Asistente de inteligencia artificial",
+     "p": "El asistente responde de forma automática con base en la información publicada en este sitio. Puede equivocarse, no reemplaza la orientación de una persona y no constituye asesoría jurídica, médica ni psicológica. Lee el aviso del asistente antes de usarlo."
+    },
+    {
+     "t": "6. Contenidos y enlaces",
+     "p": "Procuramos que la información sea exacta y esté actualizada; las cifras marcadas como «en verificación» pueden cambiar. Los enlaces a normas y sitios de terceros se ofrecen como referencia: la MDCE no controla su contenido ni su disponibilidad."
+    },
+    {
+     "t": "7. Propiedad intelectual",
+     "p": "Los textos, fotografías, logotipos y la identidad visual de la MDCE están protegidos por la Ley 23 de 1982 y la Decisión Andina 351 de 1993. Consulta la sección de derechos de autor y uso de marca."
+    },
+    {
+     "t": "8. Responsabilidad",
+     "p": "La MDCE no responde por interrupciones del servicio, fallas técnicas de terceros (alojamiento, correo o proveedores de inteligencia artificial) ni por el uso que terceros hagan de la información pública del sitio."
+    },
+    {
+     "t": "9. Cambios y ley aplicable",
+     "p": "Podemos actualizar estos términos; la versión vigente es la publicada en esta página con su fecha. Se rigen por las leyes de la República de Colombia, en especial la Ley 527 de 1999 sobre mensajes de datos y comercio electrónico."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "privacidad",
+   "titulo": "Política de tratamiento de datos personales",
+   "resumen": "Cómo recogemos, usamos y protegemos tus datos, conforme a la Ley 1581 de 2012.",
+   "secciones": [
+    {
+     "t": "1. Responsable del tratamiento",
+     "p": "Mesa Distrital de Cabildantes Estudiantiles de Bogotá D.C. (MDCE). Domicilio: Bogotá D.C., Colombia. Correo para ejercer tus derechos: cabildantesdebogota@gmail.com."
+    },
+    {
+     "t": "2. Marco legal",
+     "p": "Artículo 15 de la Constitución Política, Ley Estatutaria 1581 de 2012, Decreto 1377 de 2013 (compilado en el Decreto Único Reglamentario 1074 de 2015, capítulo 25) y demás normas que las modifiquen o complementen."
+    },
+    {
+     "t": "3. Datos que recogemos",
+     "p": "- Buzón de iniciativas: nombre, correo, teléfono (opcional), localidad, colegio (opcional), tipo de remitente y el contenido de tu mensaje.\n- Formulario de la red: nombre, correo, teléfono (opcional), tipo de perfil, organización o cargo, localidad, redes sociales e intereses.\n- Boletín: correo y localidad (opcional).\n- Asistente: las preguntas que escribes, que se procesan para generar la respuesta y no se guardan en una base de datos de la Mesa.\n- Directorio: los datos de contacto de la mesa directiva y de los cabildantes que autorizaron su publicación."
+    },
+    {
+     "t": "4. Finalidades",
+     "p": "- Recibir, clasificar, asignar y responder iniciativas, alertas y preguntas.\n- Gestionar alianzas, invitaciones, solicitudes de prensa y la vinculación a la red de la Mesa.\n- Enviar el boletín y comunicaciones sobre las actividades de la Mesa, si lo autorizaste.\n- Elaborar informes y estadísticas de gestión sin identificar a las personas.\n- Cumplir obligaciones legales y atender requerimientos de autoridades competentes."
+    },
+    {
+     "t": "5. Datos de niñas, niños y adolescentes",
+     "p": "La mayoría de los cabildantes son menores de edad. Conforme al artículo 7 de la Ley 1581 de 2012 y a la reglamentación vigente, tratamos sus datos respetando su interés superior y sus derechos prevalentes. Los menores pueden enviar iniciativas con el conocimiento de su madre, padre o acudiente. La publicación de su nombre, imagen o datos de contacto solo se hace con autorización de su representante legal y del propio adolescente, y puede retirarse en cualquier momento."
+    },
+    {
+     "t": "6. Datos sensibles",
+     "p": "No pedimos datos sensibles (salud, orientación sexual, origen étnico, creencias, afiliaciones políticas). Si los incluyes en un mensaje, por ejemplo al describir una alerta, los trataremos solo para atenderla y con especial reserva. No estás obligado a suministrarlos (artículos 5 y 6 de la Ley 1581 de 2012)."
+    },
+    {
+     "t": "7. Tus derechos como titular",
+     "p": "Puedes conocer, actualizar y rectificar tus datos; pedir prueba de tu autorización; ser informado del uso que les damos; revocar la autorización o pedir la supresión cuando no se respeten tus derechos; acceder gratuitamente a tus datos, y presentar quejas ante la Superintendencia de Industria y Comercio (artículo 8 de la Ley 1581 de 2012)."
+    },
+    {
+     "t": "8. Cómo ejercer tus derechos",
+     "p": "Escribe a cabildantesdebogota@gmail.com con el asunto «Datos personales», tu nombre, tu solicitud y un medio de respuesta.\n- Consultas: respondemos en máximo 10 días hábiles, prorrogables por 5 días hábiles más con aviso previo (artículo 14).\n- Reclamos: respondemos en máximo 15 días hábiles, prorrogables por 8 días hábiles más con aviso previo (artículo 15).\n\nSolo puedes acudir a la Superintendencia de Industria y Comercio después de agotar este trámite ante la Mesa."
+    },
+    {
+     "t": "9. Encargados y transferencias",
+     "p": "Para operar el sitio usamos proveedores que pueden almacenar o procesar datos fuera de Colombia: el servicio de correo electrónico de la Mesa, el proveedor de alojamiento web, el servicio de envío de formularios y, si usas el asistente, el proveedor de inteligencia artificial. Al usar los formularios autorizas esta transmisión, que se hace solo para las finalidades descritas (artículo 26 de la Ley 1581 de 2012)."
+    },
+    {
+     "t": "10. Seguridad, conservación y vigencia",
+     "p": "Aplicamos medidas razonables de seguridad: conexión cifrada, acceso restringido al correo oficial y entrega de los archivos al final de cada periodo a la mesa entrante. Conservamos los datos mientras sean necesarios para las finalidades y para la memoria institucional de la Mesa. Esta política rige desde su publicación."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "aviso",
+   "titulo": "Aviso de privacidad",
+   "resumen": "La versión corta de cómo tratamos tus datos.",
+   "secciones": [
+    {
+     "t": "Aviso de privacidad",
+     "p": "La Mesa Distrital de Cabildantes Estudiantiles de Bogotá D.C. (MDCE), responsable del tratamiento, recoge los datos que envías por este sitio para recibir y responder iniciativas, gestionar la red de aliados, enviar el boletín y elaborar estadísticas de gestión.\n\nComo titular puedes conocer, actualizar, rectificar y suprimir tus datos, y revocar tu autorización, escribiendo a cabildantesdebogota@gmail.com. No estás obligado a responder preguntas sobre datos sensibles ni sobre datos de niñas, niños y adolescentes.\n\nConsulta la Política de tratamiento de datos personales completa en esta misma sección."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "cookies",
+   "titulo": "Política de cookies y almacenamiento local",
+   "resumen": "Qué guardamos en tu navegador y por qué.",
+   "secciones": [
+    {
+     "t": "1. Qué son",
+     "p": "Las cookies y el almacenamiento local son pequeños archivos o registros que un sitio guarda en tu navegador para recordar información entre visitas."
+    },
+    {
+     "t": "2. Lo que usamos",
+     "p": "Este sitio no usa cookies de publicidad, de seguimiento ni de analítica. Solo guarda en el almacenamiento local de tu navegador:\n- Tu preferencia de tema (claro u oscuro).\n- Tu decisión sobre este aviso de cookies.\n- Si administras el sitio, el borrador de los cambios que no has publicado.\n\nEstos registros son técnicos y necesarios para que el sitio funcione como esperas. No nos permiten identificarte."
+    },
+    {
+     "t": "3. Servicios de terceros",
+     "p": "Para mostrar las tipografías, el navegador las descarga desde Google Fonts, que recibe la dirección IP de tu dispositivo. Los formularios y el asistente se comunican con nuestros proveedores de correo, alojamiento e inteligencia artificial solo cuando los usas. Los enlaces a redes sociales y álbumes de fotos llevan a sitios con sus propias políticas."
+    },
+    {
+     "t": "4. Cómo borrarlos",
+     "p": "Puedes borrar el almacenamiento local desde la configuración de tu navegador, en la sección de privacidad o datos de sitios. Si lo haces, el sitio volverá al tema claro y te mostrará de nuevo el aviso."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "imagen",
+   "titulo": "Uso de imagen de niñas, niños y adolescentes",
+   "resumen": "Cómo publicamos fotos y videos de cabildantes menores de edad.",
+   "secciones": [
+    {
+     "t": "Nuestro compromiso",
+     "p": "La mayoría de los cabildantes son menores de edad. Siguiendo el Código de la Infancia y la Adolescencia (Ley 1098 de 2006), en especial su derecho a la intimidad y a la propia imagen, y el artículo 7 de la Ley 1581 de 2012:\n- Publicamos fotos de actividades institucionales de la Mesa, nunca imágenes que expongan a un menor a burla, discriminación o riesgo.\n- Pedimos autorización de uso de imagen a la madre, padre o acudiente y la opinión del propio estudiante.\n- No publicamos direcciones, documentos de identidad ni ubicación en tiempo real de ningún cabildante.\n- Los datos de contacto de la mesa directiva se publican con autorización de sus titulares para que la ciudadanía pueda comunicarse con la Mesa."
+    },
+    {
+     "t": "Retiro de fotos o datos",
+     "p": "Si apareces en una foto o en el directorio y quieres que lo retiremos, o eres acudiente de un menor que aparece, escribe a cabildantesdebogota@gmail.com con el asunto «Retiro de imagen». Lo haremos en el menor tiempo posible y a más tardar en 10 días hábiles."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "autor",
+   "titulo": "Derechos de autor y uso de marca",
+   "resumen": "Cómo citar nuestros contenidos y usar los logotipos.",
+   "secciones": [
+    {
+     "t": "Contenidos",
+     "p": "Los textos, fotografías y piezas de este sitio están protegidos por la Ley 23 de 1982 y la Decisión Andina 351 de 1993. Puedes citarlos y compartirlos con fines informativos, educativos o periodísticos indicando «Fuente: Mesa Distrital de Cabildantes Estudiantiles de Bogotá». Para otros usos, escríbenos.\n\nLas fotos tomadas por el Concejo de Bogotá o por terceros conservan los derechos de sus autores."
+    },
+    {
+     "t": "Logotipos e identidad",
+     "p": "El escudo Sol de 20 localidades, los logotipos y el lema «Veinte localidades, una sola mesa» identifican a la MDCE. Los medios y aliados pueden usarlos para referirse a la Mesa, sin deformarlos, cambiar sus colores ni sugerir respaldo de la Mesa a terceros. Las guías de uso están en la sala de prensa."
+    },
+    {
+     "t": "Normas citadas",
+     "p": "Las normas y documentos oficiales enlazados son de dominio público y se citan desde sus fuentes oficiales."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "accesibilidad",
+   "titulo": "Declaración de accesibilidad",
+   "resumen": "Nuestro compromiso para que el sitio sirva a todas las personas.",
+   "secciones": [
+    {
+     "t": "Compromiso",
+     "p": "Queremos que todas las personas, incluidas las personas con discapacidad, puedan usar este sitio. Tomamos como referencia la Ley 1346 de 2009, la Ley Estatutaria 1618 de 2013, la NTC 5854 y las pautas WCAG 2.1 nivel AA."
+    },
+    {
+     "t": "Lo que hicimos",
+     "p": "- Navegación completa con teclado y enlace para saltar al contenido.\n- Textos alternativos en las imágenes y contraste suficiente entre texto y fondo.\n- Diseño adaptable a celulares, tabletas y computadores, y opción de tema oscuro.\n- Respeto por la preferencia de reducir el movimiento del sistema operativo."
+    },
+    {
+     "t": "Reporta una barrera",
+     "p": "Si encuentras una parte del sitio que no puedes usar, escríbenos a cabildantesdebogota@gmail.com y la corregiremos."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "peticiones",
+   "titulo": "Peticiones, quejas y transparencia",
+   "resumen": "Cómo comunicarte con la Mesa y con las entidades.",
+   "secciones": [
+    {
+     "t": "Comunicaciones con la Mesa",
+     "p": "Puedes escribirnos por el buzón de iniciativas o al correo cabildantesdebogota@gmail.com. Respondemos tan pronto como la comisión responsable revise tu mensaje. La MDCE es una instancia de participación y no una entidad pública, por lo que sus respuestas no son actos administrativos."
+    },
+    {
+     "t": "Peticiones a las entidades",
+     "p": "Toda persona, incluidos los menores de edad, puede presentar peticiones respetuosas a las autoridades (artículo 23 de la Constitución y Ley 1755 de 2015). Por regla general deben responder en 15 días hábiles; 10 si pides documentos o información, y 30 si es una consulta."
+    },
+    {
+     "t": "Transparencia",
+     "p": "Siguiendo el espíritu de la Ley 1712 de 2014, publicamos nuestros informes de gestión, el semáforo de respuestas de las entidades, los comunicados y la agenda en la sección de Transparencia."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  },
+  {
+   "id": "ia",
+   "titulo": "Aviso sobre el asistente de inteligencia artificial",
+   "resumen": "Lo que debes saber antes de conversar con el asistente.",
+   "secciones": [
+    {
+     "t": "Qué es",
+     "p": "El asistente de la Mesa es un programa de inteligencia artificial que responde preguntas con base en la información publicada en este sitio. No es una persona ni habla en nombre de la mesa directiva."
+    },
+    {
+     "t": "Límites",
+     "p": "- Puede equivocarse o dar información desactualizada: verifica en las secciones del sitio.\n- No da asesoría jurídica, médica ni psicológica.\n- No recibe iniciativas ni denuncias: para eso usa el buzón.\n- Ante una emergencia, llama a la Línea 123. Si necesitas apoyo emocional, la Línea 106 atiende a niñas, niños y adolescentes de Bogotá."
+    },
+    {
+     "t": "Tus datos",
+     "p": "No escribas datos personales tuyos ni de otras personas en el asistente. Tus preguntas se envían al proveedor de inteligencia artificial solo para generar la respuesta. Cuando el asistente no está conectado, responde con las preguntas frecuentes del sitio sin enviar datos a terceros."
+    }
+   ],
+   "actualizado": "2026-10-01"
+  }
+ ]
+}

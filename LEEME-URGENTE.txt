@@ -1,0 +1,31 @@
+MDCE · VERSIÓN DE URGENCIA PARA VERCEL
+======================================
+Tiempo estimado: 10 a 15 minutos. No necesitas instalar nada.
+
+1. Entra a github.com (crea una cuenta si no tienes) → botón "+" → "New repository".
+   Nombre: mdce-web · Público o privado · "Create repository".
+2. En el repositorio vacío haz clic en "uploading an existing file".
+   Arrastra TODO el contenido de esta carpeta (no la carpeta, lo de adentro:
+   index.html, assets, data, api, vercel.json…) → "Commit changes".
+   Espera a que suba (son unos 7 MB).
+3. Entra a vercel.com → "Continue with GitHub" → "Add New… → Project" →
+   elige mdce-web → "Import". Framework Preset: Other. No cambies nada más → "Deploy".
+4. En un minuto tendrás la dirección, algo como https://mdce-web.vercel.app
+   Ábrela y revisa portada, directorio y buzón.
+
+FORMULARIOS (buzón, únete a la red y boletín)
+5. Envía un formulario de prueba desde el sitio publicado.
+   Llegará un correo de FormSubmit a cabildantesdebogota@gmail.com: ábrelo y pulsa
+   "Activate Form". Desde ese momento todos los formularios llegan a ese correo.
+   (Si algo falla, el sitio le muestra a la persona su radicado y un botón para
+   enviarlo desde su propio correo: nunca se pierde un mensaje.)
+
+OPCIONAL, cuando tengas 10 minutos más
+- Correo propio por Python: en Vercel → Settings → Environment Variables crea
+  SMTP_USER = cabildantesdebogota@gmail.com y SMTP_PASS = contraseña de aplicación
+  de Google (myaccount.google.com → Seguridad → Verificación en dos pasos →
+  Contraseñas de aplicaciones). Luego Deployments → "Redeploy".
+- Asistente con IA: crea ANTHROPIC_API_KEY (console.anthropic.com) y "Redeploy".
+  Sin la clave, el asistente igual responde con la información del sitio.
+
+PARA ADMINISTRAR: escribe al final de la dirección  /#/admin
